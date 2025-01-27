@@ -1,0 +1,6 @@
+https://libiec61850.com/
+https://perfectpitchdeck.com/2018/01/30/sequoia-capital-pitch-deck-template/
+http://oscada.org/ru/
+https://github.com/HilscherAutomation/netPI-openplc
+https://openscada.readthedocs.io/en/latest/index.html
+https://openinframap.org/#6.32/36.243/-76.288
